@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>祁子俊Blog</title>
+  <title>Aurora</title>
   
   <subtitle>世界很暗，但是你来了</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://aurora8341.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://aurora8341.github.io/project/"/>
   <updated>2023-10-24T12:16:52.676Z</updated>
-  <id>http://example.com/</id>
+  <id>https://aurora8341.github.io/project/</id>
   
   <author>
     <name>祁子俊</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/2023/10/24/post%E7%A5%81%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2023/10/24/post%E7%A5%81%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://aurora8341.github.io/project/2023/10/24/post%E7%A5%81%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://aurora8341.github.io/project/2023/10/24/post%E7%A5%81%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-10-24T12:10:46.746Z</published>
     <updated>2023-10-24T12:16:52.676Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/10/24/hello-world/"/>
-    <id>http://example.com/2023/10/24/hello-world/</id>
+    <link href="https://aurora8341.github.io/project/2023/10/24/hello-world/"/>
+    <id>https://aurora8341.github.io/project/2023/10/24/hello-world/</id>
     <published>2023-10-24T04:33:36.906Z</published>
     <updated>2023-10-24T04:33:36.906Z</updated>
     
