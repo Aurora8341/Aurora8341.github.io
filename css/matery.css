@@ -35,6 +35,10 @@
 
 body {
     background-color: #eaeaea;
+
+    background: url('"E:\Git\MyBlog\themes\hexo-theme-matery\source\medias\featureimages\0.jpg"');
+    background-attachment: fixed;
+
     margin: 0;
     color: #34495e;
     overflow-x: hidden;
@@ -241,7 +245,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #4cbf30 0%, #FFA07A 100%);
 }
 
 .text-color {
@@ -339,8 +343,8 @@ header .side-nav .menu-list li {
 }
 
 header .side-nav .menu-list a {
-    height: 50px;
-    line-height: 50px;
+    height: 15px;
+    line-height: 15px;
     color: #34495e !important;
 }
 
@@ -593,7 +597,7 @@ header .go-back i {
     font-weight: 400;
 }
 
-@-webkit-keyframes rainbow {
+/*@-webkit-keyframes rainbow {
 
     0%,
     100% {
@@ -683,7 +687,7 @@ header .go-back i {
         background: -moz-linear-gradient(135deg, rgba(233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
     }
-}
+}*/
 
 .index-card {
     margin-top: -10px;
